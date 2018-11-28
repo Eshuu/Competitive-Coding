@@ -2,6 +2,7 @@
 using namespace std;
 #define vi vector<int>
 #define vvi vector< vi >
+#define mod 1000000007
 void print(int n,vvi arr)
 {
 	for(int i=0;i<n;i++)
